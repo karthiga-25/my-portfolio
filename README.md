@@ -1,65 +1,76 @@
-🌐 Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my professional profile, technical skills, projects, and contact information through a clean and responsive design.
+This is a personal portfolio website built using HTML, CSS, and JavaScript. The project focuses on showcasing my professional profile, technical skills, projects, and experience through a clean and user-friendly interface.
 
-📌 Description
+---
 
-The Personal Portfolio Website is designed to present my profile, educational background, technical skills, and web development projects in one place. It provides visitors with an overview of my technical knowledge and project experience.
+## 📌 Description
 
-🛠️ Technologies Used
+The Personal Portfolio Website is designed to showcase my profile, educational background, technical skills, and web development projects. It provides visitors with an overview of my technical knowledge, experience, and project work through a responsive and visually appealing frontend.
 
-🌐 HTML5
+---
 
-🎨 CSS3
+## 🛠️ Technologies Used
 
-⚡ JavaScript
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
 
-✨ Features
+---
 
-📱 Responsive portfolio design
+## ✨ Features
 
-👩‍💻 Personal profile and introduction
+* 📱 Responsive design (works on mobile & desktop)
+* 🎯 Clean and modern UI
+* 👩‍💻 Personal profile and introduction
+* 🛠️ Technical skills showcase
+* 🚀 Projects showcase
+* 🎓 Educational background
+* 📞 Contact information
 
-🛠️ Technical skills showcase
+---
 
-🚀 Project portfolio section
+## ▶️ How to Run
 
-📞 Contact information
+1. Download or clone the repository:
 
-🎯 Clean and user-friendly interface
-
-▶️ How to Run
-
-Download or clone the repository:
-
+```bash
 git clone https://github.com/karthiga-25/my-portfolio.git
+```
 
-Open the project folder.
+2. Open the project folder
 
-Run the application:
+3. Run the application:
 
-Open index.html in your browser.
+* Open `index.html` in your browser
 
-📁 Project Structure
+---
 
+## 📁 Project Structure
+
+```text
 my-portfolio/
 │
-└── index.html    # Main portfolio webpage
+└── index.html        # 🌐 Main portfolio webpage
+```
 
-🚀 Future Improvements
+---
 
-🔹 Add more web development projects
+## 🚀 Future Improvements
 
-🔹 Improve animations and interactions
+* 🔹 Add more projects
+* 🔹 Improve UI with animations
+* 🔹 Enhance responsive design
+* 🔹 Add more interactive features
 
-🔹 Enhance responsive design
+---
 
-🔹 Add backend functionality if required
+## 👩‍💻 Author
 
-👩‍💻 Author
-
-Karthiga M
+**Karthiga M**
 
 🔗 GitHub: https://github.com/karthiga-25
 
 🔗 LinkedIn: https://www.linkedin.com/in/karthigam/
+
+---
